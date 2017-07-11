@@ -208,7 +208,7 @@
   </properties>
 
   <profiles>
-         <profile?
+         <profile>
                    <id>sonar</id>
        <properties>
               <sonar.host.url>
