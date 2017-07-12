@@ -52,7 +52,7 @@
          <snapshotRepository>
                 <id>Nexus</id>
                 <name>Repository</name>
-                <url>http://localhost:8081/nexus/content/repository/snapshots</url>
+                <url>http://localhost:8081/nexus/content/repositories/snapshots</url>
                 </snapshotRepository>
     <site>
       <id>gh-pages</id>
