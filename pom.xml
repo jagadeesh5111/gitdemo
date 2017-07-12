@@ -50,7 +50,7 @@
   </ciManagement>
   <distributionManagement>
          <snapshotRepository>
-                <id>Nexus</id>
+                <id>nexus</id>
                 <name>Repository</name>
                 <url>http://localhost:8081/nexus/content/repositories/snapshots</url>
                 </snapshotRepository>
